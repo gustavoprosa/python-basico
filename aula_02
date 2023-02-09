@@ -1,0 +1,6 @@
+dias = int(input("digite quantos dias para saber as horas:  ")) 
+horas = dias * 24
+
+
+print("resuot")
+print(f" {horas} ")
